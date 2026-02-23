@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f7fa;
+  color: #222;
+}
+
+section {
+  padding: 80px 100px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+button {
+  background-color: #4b0082;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+
+  section {
+    padding: 40px 20px;
+  }
+
+  nav {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  h1 {
+    font-size: 35px !important;
+  }
+
+  .card {
+    width: 100% !important;
+  }
+
+  form {
+    width: 100% !important;
+  }
+}
