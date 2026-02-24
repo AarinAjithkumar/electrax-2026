@@ -13,21 +13,21 @@ function Speakers() {
 
                 <div style={cardStyle}>
                     <img
-                        src="https://via.placeholder.com/150"
+                        src="https://imgs.search.brave.com/8pxEy1wVlccP4LRy46596VHNth7XJQsQ2vGbCQ1zy48/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvNS9BbnRo/b255LUVkd2FyZC1U/b255LVN0YXJrLVBO/Ry1GcmVlLURvd25s/b2FkLTMwMHgyMjUu/cG5n"
                         alt="Speaker"
                         style={imageStyle}
                     />
-                    <h3>Dr. R. Kumar</h3>
+                    <h3>Dr.Tony Stark</h3>
                     <p>AI & Embedded Systems Expert</p>
                 </div>
 
                 <div style={cardStyle}>
                     <img
-                        src="https://via.placeholder.com/150"
+                        src="https://imgs.search.brave.com/WJ1c2n491PIONsHzZKicn5dVPkgDtwvE9j-HQCKLIVM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDgzNjEy/OTYuanBn"
                         alt="Speaker"
                         style={imageStyle}
                     />
-                    <h3>Ms. Priya Nair</h3>
+                    <h3>Ms. Gwen Stacy</h3>
                     <p>IoT Research Scientist</p>
                 </div>
 
